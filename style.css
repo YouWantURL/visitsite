@@ -383,6 +383,26 @@
   color: #9A9A9B;
 }
 
+.header-title-text-2{
+  font-family: var(--font-family);
+font-weight: 700;
+font-size: 64px;
+color: #fff;
+display: flex;
+justify-content: space-around;
+
+ }
+
+ .navigation-holder-2 {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-evenly;
+  background: #292002;
+}
+
+
 @media (max-width: 1120px) {
   .container {
     padding: 0 20px;

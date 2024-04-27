@@ -402,6 +402,14 @@ justify-content: space-around;
   background: #292002;
 }
 
+:link:hover {
+  outline: dotted rgb(177, 3, 230);
+}
+
+.foo:hover {
+  background: rgb(17, 15, 1);
+}
+
 
 @media (max-width: 1120px) {
   .container {
